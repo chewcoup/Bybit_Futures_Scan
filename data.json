@@ -962,7 +962,10 @@
                         ["0.15039", "0"],
                         ["0.17785", "3"],
                         ["0.19858", "0"],
-                        ["0.21921", "3"]
+                        ["0.21921", "3"],
+                        ["0.26021", "3"],
+                        ["0.34544", "3"],
+                        ["0.48530", "3"]
                 ],
                 "close" : "0.023",
                 "web" : "https://fr.tradingview.com/chart/gqoL7Ar1/?symbol=BINANCE%3ABLZUSDTPERP"
@@ -3865,7 +3868,7 @@
                         ["0.01508", "0"],
                         ["0.01636", "3"]
                 ],
-                "close" : "0.020",
+                "close" : "0.030",
                 "web" : "https://fr.tradingview.com/chart/gqoL7Ar1/?symbol=BINANCE%3ASTMXUSDTPERP"
         
         },{
